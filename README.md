@@ -1,2 +1,2 @@
-# recommendation-system
-Rcommending different informations depends on user's interest
+In order to increase user'activity, we decide to design a simllarity system.The system could recommend articles which the user prefer.The system is based on the item-based model of the collaborative filtering algorithm. It depends on users' store and browsing history. As for a data engineer, we need to calculate the similarity and correlation between topics, make personalized recommendations for different users, and increase reading.
+
